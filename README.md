@@ -1,5 +1,4 @@
 #dpm_checksum
-============
 
 disintegrated scripts used to verify dpm checksums
 
