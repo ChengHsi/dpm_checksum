@@ -5,7 +5,8 @@ disintegrated scripts used to verify dpm checksums
 
 
 ##Example of use:
-checking data01 on f-dpmp23,
+checking data01 on f-dpmp23
+
 with two filelist readily availble : data01/f-dpmp23\_data01\_localpath data01/f-dpmp23\_data01\_pnfpath
 
 ##1.On local Machines:
