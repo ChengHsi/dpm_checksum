@@ -18,7 +18,7 @@ creates data01/f-dpmp23\_data01\_localsum
 
 creates data01/f-dpmp23\_data01\_pnfsum
 
-###3.some machine with both file
+###3.Some machine with both file
 with files in $PWD/f-dpmp23/data01:
 
 `xxx@asgc-ui02$ python compare.py f-dpmp23/data01`
