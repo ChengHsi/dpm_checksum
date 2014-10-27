@@ -14,10 +14,10 @@ creates data01/f-dpmp23\_data01\_localsum
 ============
 ##2.On UI:
 `xxx@asgc-ui02$ python get\_pnf\_sum.py data01/f-dpmp23\_data01\_pnfpath`
-creates data01/f-dpmp23_data01_pnfsum
+creates data01/f-dpmp23\_data01\_pnfsum
 ============
 ##3.some machine with both file
-with files in $PWD/f-dpmp23/data01
+with files in $PWD/f-dpmp23/data01:
 `xxx@asgc-ui02$ python compare.py f-dpmp23/data01`
 return three kinds of results: missing, denied, corrupted
 
